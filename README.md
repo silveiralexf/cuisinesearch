@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/silveiralexf/cuisinesearch)](https://goreportcard.com/report/github.com/silveiralexf/cuisinesearch)
+
 # Find the best-matched restaurants challenge
 
 You have data about local restaurants located near your company, which you can find in the **restaurants.csv** file. You would like to develop a basic search function that allows your colleagues to search those restaurants to help them find where they would like to have lunch. The search is based on five criteria: **Restaurant Name, Customer Rating(1 star ~ 5 stars), Distance(1 mile ~ 10 miles), Price(how much one person will spend on average, $10 ~ $50), Cuisine(Chinese, American, Thai, etc.).** The requirements are listed below.
