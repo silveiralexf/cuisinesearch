@@ -82,7 +82,7 @@ GET /restaurants/search?<field>=<search_term>
 | Type  | Name     | Schema  | Example                               |
 |-------|----------|---------|---------------------------------------|
 | Query | name     | string  | `/restaurants/search?name=Palacex`    |
-| Query | cuisine  | string  | `/restaurants/search?cuisine=Palacex` |
+| Query | cuisine  | string  | `/restaurants/search?cuisine=Russian` |
 | Query | distance | integer | `/restaurants/search?distance=6`      |
 | Query | price    | integer | `/restaurants/search?price=15`        |
 | Query | rating   | integer | `/restaurants/search?rating=2`        |
